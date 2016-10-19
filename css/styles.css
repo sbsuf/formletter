@@ -1,0 +1,18 @@
+.person1 {
+
+}
+
+#person1 {
+
+}
+
+#story {
+  display: none;
+}
+
+.mailLetter {
+  background-image: url(../img/postcard2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
